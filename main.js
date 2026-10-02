@@ -83,7 +83,7 @@ function draw() {
         ctx.stroke();
         */
 
-            Ejemplo de curvas cúbicas
+           // Ejemplo de curvas cúbicas
         ctx.beginPath();
         ctx.moveTo(75, 40);
         ctx.bezierCurveTo(75, 37, 70, 25, 50, 25);
